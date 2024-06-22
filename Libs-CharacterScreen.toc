@@ -8,4 +8,6 @@
 ## X-Wago-ID: xxxxxxxxx
 ## X-Github: https://github.com/Wutname1/Libs-CharacterScreen
 
+Libs/Ace3/Ace3.xml
+
 main.lua
