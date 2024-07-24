@@ -1,0 +1,3 @@
+local LibCS = ...
+
+local Config = LibCS:NewModule('Config', 'AceConsole-3.0', 'AceEvent-3.0', 'AceHook-3.0')
